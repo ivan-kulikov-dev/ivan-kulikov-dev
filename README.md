@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+my blog https://ivan-kulikov-dev.github.io/ivan-kulikov-dev-blog/
+
 <!--
 **ivan-kulikov-dev/ivan-kulikov-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
